@@ -1,0 +1,7 @@
+user=utesting
+psw=pwtesting
+pwd=123456
+usrn=utesting
+usr=utesting
+passwd=test123
+password=test123
